@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anis-Qureshi
 - 👀 I’m interested in watching animes and coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Blockchain development
 - 💞️ I’m looking to collaborate on project making
 - 📫 How to reach me:-
        email - anistk1624@gmail.com
